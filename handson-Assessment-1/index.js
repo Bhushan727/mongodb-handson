@@ -1,3 +1,8 @@
+// Atlas Credentials
+// username : admin
+// password : cg0EnZSdxLRTVuwi
+// url : mongodb+srv://admin:<password>@cluster0.jdpytry.mongodb.net/?retryWrites=true&w=majority
+
 MongoDB handson-1 : using mongoshell
 
 Create a database , give it name like "Human_Resource". Create a collection inside this named "employee"
